@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "commander": "2.6.0"
+    "commander": "2.6.0",
+    "dockerode": "2.0.6"
   },
   "name": "sugarcli",
   "author": "SugarCRM",
