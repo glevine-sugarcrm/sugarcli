@@ -1,0 +1,13 @@
+{
+  "description": "Toolbox for developing your SugarCRM application.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "commander": "2.6.0"
+  },
+  "name": "sugarcli",
+  "author": "SugarCRM",
+  "homepage": "http://www.sugarcrm.com",
+  "preferGlobal": true,
+  "bin": "./index.js"
+}
