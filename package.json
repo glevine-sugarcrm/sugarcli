@@ -1,6 +1,6 @@
 {
   "description": "Toolbox for developing your SugarCRM application.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "commander": "2.6.0",
