@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "commander": "2.6.0",
-    "dockerode": "2.0.6"
+    "dockerode": "2.0.6",
+    "fs-extra": "0.14.0",
+    "lodash-node": "2.4.1"
   },
   "name": "sugarcli",
   "author": "SugarCRM",
